@@ -1,2 +1,2 @@
-# VuforiaImageTargetDemo
-Vuforia image target demo
+# VuforiaDemo
+- Image target
